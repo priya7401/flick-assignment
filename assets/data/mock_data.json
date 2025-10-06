@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "id": "trending",
+      "name": "Trending Now",
+      "videos": [
+        {
+          "id": "1",
+          "title": "The Crown: Season 6",
+          "description": "The final season of the acclaimed series about the British Royal Family",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3834314863/preview/stock-footage-experience-stunning-aerial-views-of-the-majestic-eiffel-tower-in-the-heart-of-paris-vertical-video.webm",
+          "duration": 3600,
+          "category": "Drama",
+          "year": 2023,
+          "rating": "TV-MA",
+          "isTrending": true
+        },
+        {
+          "id": "2",
+          "title": "Stranger Things 4",
+          "description": "The kids from Hawkins face their greatest challenge yet",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "duration": 4200,
+          "category": "Sci-Fi",
+          "year": 2022,
+          "rating": "TV-14",
+          "isTrending": true
+        },
+        {
+          "id": "3",
+          "title": "Wednesday",
+          "description": "The Addams Family's Wednesday navigates Nevermore Academy",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3743436635/preview/stock-footage-close-up-of-a-computer-monitor-dashboard-view-of-an-erp-software-enterprise-resource-planning-or.webm",
+          "duration": 2700,
+          "category": "Comedy",
+          "year": 2022,
+          "rating": "TV-14",
+          "isTrending": true
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "name": "Action & Adventure",
+      "videos": [
+        {
+          "id": "4",
+          "title": "The Witcher: Blood Origin",
+          "description": "A prequel series set 1200 years before The Witcher",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "duration": 3300,
+          "category": "Action",
+          "year": 2022,
+          "rating": "TV-MA",
+          "isTrending": false
+        },
+        {
+          "id": "5",
+          "title": "The Sandman",
+          "description": "The Lord of Dreams learns that one must change or be changed",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "duration": 3900,
+          "category": "Fantasy",
+          "year": 2022,
+          "rating": "TV-MA",
+          "isTrending": false
+        },
+        {
+          "id": "6",
+          "title": "The Umbrella Academy",
+          "description": "A dysfunctional family of superheroes reunites to solve their father's death",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3691270643/preview/stock-footage-car-driving-on-the-road-to-iceland-view-of-the-road-mountains-and-the-bay-from-the-inside-of-the.webm",
+          "duration": 3600,
+          "category": "Action",
+          "year": 2022,
+          "rating": "TV-14",
+          "isTrending": false
+        }
+      ]
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy",
+      "videos": [
+        {
+          "id": "7",
+          "title": "The Office",
+          "description": "A mockumentary about a group of office workers",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "duration": 1800,
+          "category": "Comedy",
+          "year": 2005,
+          "rating": "TV-14",
+          "isTrending": false
+        },
+        {
+          "id": "8",
+          "title": "Friends",
+          "description": "Follows the personal and professional lives of six friends",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+          "duration": 1800,
+          "category": "Comedy",
+          "year": 1994,
+          "rating": "TV-14",
+          "isTrending": false
+        },
+        {
+          "id": "9",
+          "title": "Brooklyn Nine-Nine",
+          "description": "Comedy series about the detectives of the 99th precinct",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3653336335/preview/stock-footage-vertical-video-of-london-vertical-aerial-view-shot-day.webm",
+          "duration": 1800,
+          "category": "Comedy",
+          "year": 2013,
+          "rating": "TV-14",
+          "isTrending": false
+        }
+      ]
+    },
+    {
+      "id": "drama",
+      "name": "Drama",
+      "videos": [
+        {
+          "id": "10",
+          "title": "Breaking Bad",
+          "description": "A high school chemistry teacher turned methamphetamine manufacturer",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "duration": 3600,
+          "category": "Drama",
+          "year": 2008,
+          "rating": "TV-MA",
+          "isTrending": false
+        },
+        {
+          "id": "11",
+          "title": "The Queen's Gambit",
+          "description": "An orphaned chess prodigy struggles with addiction",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+          "duration": 3600,
+          "category": "Drama",
+          "year": 2020,
+          "rating": "TV-MA",
+          "isTrending": false
+        },
+        {
+          "id": "12",
+          "title": "Ozark",
+          "description": "A financial advisor drags his family to the Ozarks",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3685791849/preview/stock-footage-traveling-and-tourism-view-from-passenger-window-of-modern-plane-vertical-video-transportation.webm",
+          "duration": 3600,
+          "category": "Drama",
+          "year": 2017,
+          "rating": "TV-MA",
+          "isTrending": false
+        }
+      ]
+    },
+    {
+      "id": "sci-fi",
+      "name": "Sci-Fi & Fantasy",
+      "videos": [
+        {
+          "id": "13",
+          "title": "The Mandalorian",
+          "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "duration": 2700,
+          "category": "Sci-Fi",
+          "year": 2019,
+          "rating": "TV-14",
+          "isTrending": false
+        },
+        {
+          "id": "14",
+          "title": "Black Mirror",
+          "description": "An anthology series exploring techno-paranoia",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "duration": 3600,
+          "category": "Sci-Fi",
+          "year": 2011,
+          "rating": "TV-MA",
+          "isTrending": false
+        },
+        {
+          "id": "15",
+          "title": "The Expanse",
+          "description": "A thriller set two hundred years in the future",
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+          "videoUrl": "https://www.shutterstock.com/shutterstock/videos/3779653703/preview/stock-footage-rising-chart-motion-graphics-stock-prices-increasing-over-time-vertical-video.webm",
+          "duration": 3600,
+          "category": "Sci-Fi",
+          "year": 2015,
+          "rating": "TV-14",
+          "isTrending": false
+        }
+      ]
+    }
+  ]
+}
