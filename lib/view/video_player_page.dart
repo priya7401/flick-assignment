@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:video_player/video_player.dart';
 import '../models/video_content.dart';
 
@@ -63,6 +64,7 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
       } else {
         _controller?.play();
       }
+      setState(() {});
     }
   }
 
@@ -131,8 +133,8 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
             child: GestureDetector(
               onTap: _togglePlayPause,
               child: Container(
-                width: 80,
-                height: 80,
+                width: 80.w,
+                height: 80.h,
                 decoration: BoxDecoration(
                   color: Colors.black.withValues(alpha: 0.5),
                   shape: BoxShape.circle,
