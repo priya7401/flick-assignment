@@ -26,4 +26,21 @@ A Flutter-based Over-the-Top (OTT) video streaming application prototype built f
 - **State Management**: BLoC (flutter_bloc)
 - **Video Player Library**: video_player
 
-**Note**: the video player library in the assignment doc: better_player is outdated and not compatible with latest flutter version. Used video_player package instead that has support for latest flutter version
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd flick_assignment
+   ```
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**
+   ```bash
+   flutter run
+   ```
